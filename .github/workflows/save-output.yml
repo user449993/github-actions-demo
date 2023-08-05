@@ -1,4 +1,4 @@
-name: upload-artifcate
+name: upload-artifcat
 on: [push]
 jobs:
   example-job:
